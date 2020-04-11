@@ -1,4 +1,4 @@
-# A basic sentiment analysis to check polarity (positive/negative) of a sentence using Python
+# A basic sentiment analysis script to check polarity (positive/negative) of a sentence using Python
 This program is a basic sentiment analysis script capable of checking the polarity (positive/ negative) of a sentence. It uses the nltk library and it's functions to achieve the goal. The data used to train the model is from the twitter samples within the library. And, the model is trained using these data after normalization (lemmatization) and a simple noise cleaning process with the help of a Naive Bayes Classifier.
 
 The full walkthrough of the implementation is available [here](https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk).
