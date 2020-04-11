@@ -1,6 +1,6 @@
 # A basic sentiment analysis to check polarity (positive/negative) in a sentence using Python
 
-How to run
+# How to run
 1. Clone the repository
 2. pip install nltk
 3. open python shell
